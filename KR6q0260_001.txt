@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:49:02.733483
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:19
 #+TITLE: 古尊宿語錄目錄
 #+PROPERTY: CBETA_ID X68n1314
 #+PROPERTY: ID KR6q0260
